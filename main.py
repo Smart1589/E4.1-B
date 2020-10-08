@@ -1,2 +1,4 @@
-name = input('Enter you name')
-print ('Your name is',len(name),'letterlong!')
+orig_string = 'Hello'
+orig_string + ', world'
+
+
